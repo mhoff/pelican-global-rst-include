@@ -1,1 +1,0 @@
-# pelican-global-rst-include
