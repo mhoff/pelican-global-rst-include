@@ -3,7 +3,7 @@ Pelican Global RST Include
 
 ``Global RST Include`` is a plugin for `Pelican`_ allowing for the convenient and straight-forward inclusion of global `RST`_ files into every RST article.
 This can make sense for central definitions of, for example, custom code roles, the default code role and abbreviations.
-Refer to `my blog article <https://github.com/mhoff/pelican-global-rst-include>`_ for further motivation and background.
+Refer to `my blog article <https://mhoff.net/article/2016/06/30/global-includes-for-rst/>`_ for further motivation and background.
 
 Usage
 -----
