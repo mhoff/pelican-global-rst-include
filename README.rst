@@ -5,6 +5,8 @@ Pelican Global RST Include
 This can make sense for central definitions of, for example, custom code roles, the default code role and abbreviations.
 Refer to `my blog article <https://mhoff.net/article/2016/06/30/global-includes-for-rst/>`_ for further motivation and background.
 
+*This repository is no longer maintained. Forks of this repository are probably improved and more up-to-date. https://github.com/ryancdotorg/pelican-global-rst-include appears to be compatible with newer versions of Pelican.* 
+
 Usage
 -----
 
